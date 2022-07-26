@@ -1,0 +1,2 @@
+# SmartekGitProject
+Practice stuffs
